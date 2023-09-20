@@ -1,0 +1,4 @@
+.python-version
+*.csv
+*.csv.gz
+.DS_Store
